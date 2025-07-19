@@ -1,0 +1,13 @@
+{
+    "hi":"Hello there! How can i assist you today?",
+    "bye" : "Goodbye, Have a nice day",
+    "what is your age" : "I don't age, I am just a code",
+    "thank you" : "You'r welcome",
+    "thanks" : "Glad to help",
+    "how_are_you": "I'm doing great! Thanks for asking.",
+    "name": "I'm a simple Python chatbot created for your AI project.",
+    "abilities": "I can chat, tell time/date, answer simple questions, and make you smile!",
+    "creator": "I was created by Akbar Ali as part of an AI project.",
+    "robot": "Yes, I'm a bot, but a friendly one!",
+    "joke": "Why don't programmers like nature? It has too many bugs."
+}
